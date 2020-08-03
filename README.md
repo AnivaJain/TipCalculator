@@ -23,7 +23,7 @@ I can further add features such as animations, multiple currencys, and
 
 Here's a walkthrough of implemented user stories:
 
-![https://imgur.com/a/DDFHieu](https://imgur.com/a/DDFHieu)
+![Video](https://media.giphy.com/media/McsaY4P2xD8uI6yM4D/giphy.gif)
 
 ## Notes
 
