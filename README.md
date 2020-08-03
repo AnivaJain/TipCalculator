@@ -23,8 +23,7 @@ I can further add features such as animations, multiple currencys, and
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/M2CvvWW" data-context="false" ><a href="//imgur.com/a/M2CvvWW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src='https://imgur.com/a/M2CvvWW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## Notes
 
 
