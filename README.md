@@ -23,7 +23,7 @@ I can further add features such as animations, multiple currencys, and
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/hWGJe9nXZR579e8xK2" width="232" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/firstapp-hWGJe9nXZR579e8xK2">via GIPHY</a></p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/M2CvvWW" data-context="false" ><a href="//imgur.com/a/M2CvvWW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes
 
