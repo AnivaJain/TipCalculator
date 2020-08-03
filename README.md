@@ -23,7 +23,8 @@ I can further add features such as animations, multiple currencys, and
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/M2CvvWW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![hiii](https://imgur.com/a/DDFHieu)
+
 ## Notes
 
 
